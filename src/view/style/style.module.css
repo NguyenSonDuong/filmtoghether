@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+    outline: none !important;
+}
+
+.btnA {
+    padding-left: 100px;
+    padding-right: 100px;
+    outline: none !important;
+    border: none;
+    text-decoration: none;
+    box-shadow: none;
+    
+}
+
+.btnA:hover {
+    background-color: rgb(133, 18, 18);
+    outline: none;
+}
+.btnA:focus, .btnA:active {
+    outline: none !important;
+  box-shadow: none !important;
+}
